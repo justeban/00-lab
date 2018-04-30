@@ -22,10 +22,10 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-(Put your answer here)
+I needed to change 'const' into 'let' on line 5. Const is used when the variable isn't change data types. When variable is going to stay an array or an object or is not going to be mutated throughout the code then you can use const. Otherwise you need to use let. 
 
 ---
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+I remember doing this lab in the beginning of 301 not really understanding the syntax of template literals. Now I don't imagine I would ever really need to go back to regular string concatenation. 
